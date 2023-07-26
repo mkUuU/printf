@@ -7,7 +7,7 @@
 #define UNUSED(x)(void)(x)
 
 /*FLAGS*/
-#define F_MINUS 1 
+#define F_MINUS 1
 #define F_PLUS 2
 #define F_ZERO 4
 #define F_HASH 8
